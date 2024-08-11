@@ -1,6 +1,4 @@
-Certainly! Here is the complete Markdown file with all sections included:
 
-```markdown
 # Angry Birds Game 🎮
 
 Welcome to the Angry Birds game created using Pygame and Pymunk! This is a fun and interactive physics-based puzzle game where you can destroy structures and defeat pigs using a slingshot. The game features multiple levels, fun cheat keys, and accurate score calculation based on the destruction caused and the number of birds remaining.
@@ -66,7 +64,7 @@ pip install pygame pymunk
 - Toggle the back wall using the `W` key to prevent birds from flying off-screen. 🚧
 - Try to complete each level with the fewest birds possible to maximize your score. 🏆
 
-## Known Issues ⚠️
+## Be Aware ⚠️
 
 - Be cautious with zero gravity as the sky seems infinite. The bird might drop from a very high place and collapse. 🌌🕊️
 - The game may experience some lag on older systems. 🖥️
