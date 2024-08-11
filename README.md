@@ -73,6 +73,8 @@ Feel free to fork this repository and contribute to the game. Pull requests are 
 
 This game is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
+#References
+rb.gy/u3xexx
 ---
 
 Enjoy the game and have fun playing with the cheat keys to explore different ways to defeat the pigs!
